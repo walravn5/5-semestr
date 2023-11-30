@@ -4,3 +4,6 @@
 макет из figma перенесли в android studio или в аналог
 
 бекенд: переключение между страницами, проигрывание страницы,работа с API, язык программирования Java или Cotlin
+https://docs.google.com/document/d/1FouX5EEGlwo0Tc7ob2yeC014UHoeIIXLj3VmUJQnoDk/edit?usp=sharing план производства
+
+https://www.figma.com/file/iULslKOLAOKgS1KWT00rfy/Untitled?type=design&node-id=0%3A1&mode=design&t=dQTrwEpz7cY9PdaM-1 Проект настольного приложения
