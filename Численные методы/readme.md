@@ -4,4 +4,5 @@ Excel - python matplotlib
 
 https://docs.google.com/spreadsheets/d/1A6ThFNDX99hbl6-uc_zsSvMpWOFqu_dhT3ESogvXWKs/edit?usp=sharing
 
+https://replit.com/@walravn5/Chisliennyie-mietody-1
 
